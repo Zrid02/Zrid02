@@ -3,7 +3,7 @@
 
 - 🌱 J'ai effectue mon premier projet tout seul [SoloDle](https://zrid02.github.io/SoloDle)
 
-- ⚙️ Je suis entrain d'apprendre a comment utilise certain langage **Laravel et Symfony**
+- ⚙️ Je suis entrain d'apprendre a comment utilise certain langage telle que **Laravel et Symfony**
 
 - 📫 Pour me joindre voici un email **nessim.rabhi@sfr.fr**
 
