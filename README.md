@@ -1,13 +1,13 @@
 <h1 align="center">Bonjour 👋,Je suis Zrid02</h1>
-<h3 align="center">Je suis un passionne d'informatique particulierement de développement web et de logiciels</h3>
+<h3 align="center">Je suis un passionné d'informatique particulièrement de développement web et de logiciels</h3>
 
-- 🌱 J'ai effectue mon premier projet tout seul [SoloDle](https://zrid02.github.io/SoloDle)
+- 🌱 J'ai effectué mon premier projet seul [SoloDle](https://zrid02.github.io/SoloDle)
 
-- ⚙️ Je suis entrain d'apprendre a comment utilise certain langage telle que **Laravel**
+- ⚙️ Je suis en train d'apprendre à utiliser certain langage tel que **Laravel**
 
-- 📫 Pour me joindre voici un email **nessim.rabhi@sfr.fr**
+- 📫 Pour me joindre voici mon email **nessim.rabhi@sfr.fr**
 
-<h3 align="left">Vous pouvez me trouver sur certain reseau sociaux:</h3>
+<h3 align="left">Vous pouvez me trouver sur ce réseau social :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nessim rabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nessim rabhi" height="30" width="40" /></a>
 </p>
