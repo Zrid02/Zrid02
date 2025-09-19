@@ -7,15 +7,12 @@
 
 - 📫 Pour me joindre voici mon email **nessim.rabhi@sfr.fr**
 
-<h3 align="left">Vous pouvez me trouver sur ce réseau social :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nessim rabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nessim rabhi" height="30" width="40" /></a>
-</p>
+
 
 ---
 
-![Nezzeur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezzeur&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezzeur&layout=compact&theme=tokyonight&langs_count=6)
+![Zrid02 GitHub stats](https://github-readme-stats.vercel.app/api?username=zrid02&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrid02&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 
@@ -36,3 +33,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<h3 align="left">Vous pouvez me trouver sur ce réseau social :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nessim rabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nessim rabhi" height="30" width="40" /></a>
+</p>
