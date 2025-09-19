@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋,moi c'est Nessim </h1>
+<h1 align="center">Bonjour 👋, moi c'est Nessim </h1>
 <h3 align="center">Je suis un passionné d'informatique particulièrement de développement web et de logiciels</h3>
 
 - 🌱 J'ai effectué mon premier projet seul [SoloDle](https://zrid02.github.io/SoloDle)
