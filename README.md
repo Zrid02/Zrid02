@@ -3,7 +3,7 @@
 
 - 🌱 J'ai effectué mon premier projet seul [SoloDle](https://zrid02.github.io/SoloDle)
 
-- ⚙️ Je suis en train d'apprendre à utiliser certain langage tel que **Laravel**
+- ⚙️ Je suis en train d'apprendre à utiliser certain langage tel que **Node.js et le React**
 
 - 📫 Pour me joindre voici mon email **nessim.rabhi@sfr.fr**
 
