@@ -5,7 +5,7 @@
 
 - ⚙️ Je suis en train d'apprendre à utiliser certain langage tel que **Node.js et le React**
 
-- 📫 Pour me joindre voici mon email **nessim.rabhi@sfr.fr**
+- 📫 Pour me joindre voici mon email **nessim.rabhi@outlook.fr**
 
 
 
