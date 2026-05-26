@@ -11,8 +11,8 @@
 
 ---
 
-![Zrid02 GitHub stats](https://github-readme-stats.vercel.app/api?username=zrid02&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrid02&layout=compact&theme=tokyonight&langs_count=6)
+![Zrid02 GitHub stats](https://nice-readme.vercel.app/stats?username=zrid02&show_icons=true&theme=tokyonight)
+![Top Langs](https://nice-readme.vercel.app/top-langs/?username=zrid02&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 
