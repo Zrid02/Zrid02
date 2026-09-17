@@ -7,19 +7,6 @@
 
 - 📫 Pour me joindre voici mon email **nessim.rabhi@outlook.fr**
 
-
-
----
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
-
-![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=radical)
-
-![Trophées](https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=radical)
----
-
 ## 🛠️ Technologies et outils
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
